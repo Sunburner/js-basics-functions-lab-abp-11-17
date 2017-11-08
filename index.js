@@ -6,7 +6,7 @@ function calculateVertical(start, end){
   //
   let blocksTraveled = (end - start)
 
-  return blocksTraveled * feetInBlock
+  return blocksTraveled * feetInBlock f
 
-  
+
 }
